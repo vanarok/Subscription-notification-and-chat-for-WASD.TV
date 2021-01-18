@@ -1,6 +1,6 @@
 # Subscription-notification-and-chat-for-WASDTV
 ____
-[ Скачать ] (https://github.com/vanarok/Subscription-notification-and-chat-for-WASDTV/archive/master.zip)
+[Скачать](https://github.com/vanarok/Subscription-notification-and-chat-for-WASDTV/archive/master.zip)
 
 ## Подключить уведомления о подписке(добавление в избранное)
 1. Изменить конфигурационный файл config.js под себя
