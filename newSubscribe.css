@@ -1,0 +1,22 @@
+body {
+    background: green;
+
+}
+
+.alert {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.alert__content {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: #a900bd;
+    text-align: center;
+    text-shadow: black 0px 0px 10px;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17em;
+}
